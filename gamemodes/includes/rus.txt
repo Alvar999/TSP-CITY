@@ -1,0 +1,17 @@
+C:\Users\OPERA\Desktop\AGTA-RP\pawno\include\discord-cmd.inc(153) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "CallLocalFunction"
+C:\Users\OPERA\Desktop\AGTA-RP\pawno\include\discord-cmd.inc(153) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\OPERA\Desktop\AGTA-RP\pawno\include\discord-cmd.inc(153) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\OPERA\Desktop\AGTA-RP\pawno\include\discord-cmd.inc(153) -- (154) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\OPERA\Desktop\AGTA-RP\pawno\include\discord-cmd.inc(153) -- (154) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\OPERA\Desktop\AGTA-RP\pawno\include\discord-cmd.inc(153) -- (154) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\OPERA\Desktop\AGTA-RP\pawno\include\discord-cmd.inc(154) : îøèáêà 001: îæèäàëñÿ òîêåí ";", íî íàéäåí ")"
+C:\Users\OPERA\Desktop\AGTA-RP\pawno\include\discord-cmd.inc(154) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\OPERA\Desktop\AGTA-RP\pawno\include\discord-cmd.inc(154) : îøèáêà 029: íåïðàâèëüíîå âûðàæåíèå, ïðèíÿò íîëü
+C:\Users\OPERA\Desktop\AGTA-RP\pawno\include\discord-cmd.inc(154) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:4.

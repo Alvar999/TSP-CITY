@@ -1,0 +1,37 @@
+D:\AGTA-RP\pawno\include\YSI\y_utils.inc(334) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "string" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+D:\AGTA-RP\pawno\include\YSI\y_utils.inc(488) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "string" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+D:\AGTA-RP\pawno\include\YSI\y_utils.inc(520) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "string" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+D:\AGTA-RP\pawno\include\YSI\y_utils.inc(538) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "string" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(266) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(268) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(272) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(274) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(277) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(279) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(281) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(282) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(285) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(289) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(293) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(297) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(301) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(303) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(305) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(306) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(309) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(313) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(317) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(319) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(321) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(322) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(325) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(327) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(328) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+D:\AGTA-RP\gamemodes\includes\other\TX.pwn(331) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.
